@@ -1,6 +1,6 @@
 {
-  "version": "v0.28",
-  "code": 28,
-  "apk": "https://github.com/sylvainmercier5/basket3d-releases/raw/main/basket3d-v0-28.apk",
-  "notes": "In Da Zone 2.0 : nouveau nom et nouvelle icône."
+  "version": "v0.29",
+  "code": 29,
+  "apk": "https://github.com/sylvainmercier5/basket3d-releases/raw/main/basket3d-v0-29.apk",
+  "notes": "Page d'accueil, écrans (visée, classement, réglages, pause, fin de série), défi du jour, niveaux et XP, plein écran sur téléphones allongés."
 }
