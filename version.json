@@ -1,6 +1,6 @@
 {
-  "version": "v0.34",
-  "code": 34,
-  "apk": "https://github.com/sylvainmercier5/basket3d-releases/raw/main/basket3d-v0-34.apk",
-  "notes": "Le parcours : le jeu te place (lay-up, mi-distance, 5 spots à 3 points, logo…), ballons dorés ×2, ENCAISSER en haut, SOMMET plus exigeant."
+  "version": "v0.35",
+  "code": 35,
+  "apk": "https://github.com/sylvainmercier5/basket3d-releases/raw/main/basket3d-v0-35.apk",
+  "notes": "Lancer franc tous les 5 tirs (au VISEUR) : réussi, il valide un palier qui protège ton pot."
 }
