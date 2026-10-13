@@ -1,6 +1,6 @@
 {
-  "version": "v0.35",
-  "code": 35,
-  "apk": "https://github.com/sylvainmercier5/basket3d-releases/raw/main/basket3d-v0-35.apk",
-  "notes": "Lancer franc tous les 5 tirs (au VISEUR) : réussi, il valide un palier qui protège ton pot."
+  "version": "v0.36",
+  "code": 36,
+  "apk": "https://github.com/sylvainmercier5/basket3d-releases/raw/main/basket3d-v0-36.apk",
+  "notes": "On encaisse au palier (après un lancer franc réussi : ENCAISSER ou CONTINUER). Popups revus, un message à la fois, nouveaux mots et voix."
 }
