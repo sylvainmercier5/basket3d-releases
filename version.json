@@ -1,6 +1,6 @@
 {
-  "version": "v0.31",
-  "code": 31,
-  "apk": "https://github.com/sylvainmercier5/basket3d-releases/raw/main/basket3d-v0-31.apk",
-  "notes": "Mise à jour intégrée au jeu (téléchargement + installateur Android)."
+  "version": "v0.32",
+  "code": 32,
+  "apk": "https://github.com/sylvainmercier5/basket3d-releases/raw/main/basket3d-v0-32.apk",
+  "notes": "EXPERT tir par tir dans toutes les visées, 3 nouvelles visées (TEMPO, LUNETTE, NIVEAU), tutos des gestes."
 }
