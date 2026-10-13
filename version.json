@@ -1,6 +1,6 @@
 {
-  "version": "v0.30",
-  "code": 30,
-  "apk": "https://github.com/sylvainmercier5/basket3d-releases/raw/main/basket3d-v0-30.apk",
-  "notes": "Visées revues (EXPERT, CATAPULTE, SWIPE), démos animées, nouveau speaker, popups arcade."
+  "version": "v0.31",
+  "code": 31,
+  "apk": "https://github.com/sylvainmercier5/basket3d-releases/raw/main/basket3d-v0-31.apk",
+  "notes": "Mise à jour intégrée au jeu (téléchargement + installateur Android)."
 }
