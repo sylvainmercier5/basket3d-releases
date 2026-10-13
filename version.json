@@ -1,6 +1,6 @@
 {
-  "version": "v0.33",
-  "code": 33,
-  "apk": "https://github.com/sylvainmercier5/basket3d-releases/raw/main/basket3d-v0-33.apk",
-  "notes": "Partager l'appli et ses scores depuis le jeu (menu Partager d'Android)."
+  "version": "v0.34",
+  "code": 34,
+  "apk": "https://github.com/sylvainmercier5/basket3d-releases/raw/main/basket3d-v0-34.apk",
+  "notes": "Le parcours : le jeu te place (lay-up, mi-distance, 5 spots à 3 points, logo…), ballons dorés ×2, ENCAISSER en haut, SOMMET plus exigeant."
 }
